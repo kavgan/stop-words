@@ -1,2 +1,1 @@
-# stop-words
-Stop word lists
+# hotel-search
